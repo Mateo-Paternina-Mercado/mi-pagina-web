@@ -5,3 +5,169 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+._1 {
+  background: var(--color-1);
+  flex-shrink: 0;
+  height: 1139px;
+  position: relative;
+  overflow: hidden;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 415px;
+  top: 64px;
+}
+.title{
+  color: var(--color-2);
+  text-align: center;
+  font-family: "Avenir-Heavy";
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 400;
+  position: relative;
+  width: 610px;
+  height: 145px;
+}
+.text {
+  color: var(--color-3);
+  text-align: center;
+  font-family: "Avenir-Roman";
+  font-size: 26px;
+  font-weight: 400;
+  position: relative;
+  width: 607px;
+}
+.primary-button {
+  background: var(--color-2);
+  border-radius: 16px;
+  padding: 18px 48px 18px 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.contact-us {
+  color: var(--color-1);
+  text-align: left;
+  font-family: "Avenir-Roman", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+  position: relative;
+}
+.image-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 64px;
+  top: 483px;
+}
+.frame-14147 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._12 {
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+}
+.rectangle-3 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 16px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+._2 {
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+}
+.rectangle-4 {
+  background: linear-gradient(to left, #d9d9d9, #d9d9d9);
+  border-radius: 16px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+._3 {
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+}
+._4 {
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+}
+.frame-14148 {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._13 {
+  border-radius: 16px;
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+  overflow: hidden;
+}
+._22 {
+  border-radius: 16px;
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+  overflow: hidden;
+}
+._32 {
+  border-radius: 16px;
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+}
+._42 {
+  border-radius: 16px;
+  flex-shrink: 0;
+  width: 316px;
+  height: 288px;
+  position: relative;
+}
