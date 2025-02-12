@@ -5,3 +5,73 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+._3 {
+  background: var(--color-1);
+  flex-shrink: 0;
+  height: 1204px;
+  position: relative;
+  overflow: hidden;
+}
+.title {
+  color: var(--color-2);
+  text-align: left;
+  font-family: "Avenir-Heavy";
+  font-size: 88px;
+  line-height: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 64px;
+  top: 122px;
+  width: 674px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 851px;
+  top: 122px;
+}
+.texto{
+  color: var(--color-3);
+  text-align: left;
+  font-family: "Avenir-Roman";
+  font-size: 26px;
+  font-weight: 400;
+  position: relative;
+  width: 526px;
+}
+.primary-button {
+  background: var(--color-2);
+  border-radius: 16px;
+  padding: 16px 32px 16px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.contact-us {
+  color: var(--color-1);
+  text-align: left;
+  font-family: "Avenir-Roman";
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+  position: relative;
+}
+.hero-image {
+  width: 1313px;
+  height: 732px;
+  position: absolute;
+  left: 64px;
+  top: 416px;
+  overflow: hidden;
+  object-fit: cover;
+}
