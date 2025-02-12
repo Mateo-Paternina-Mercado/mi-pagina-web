@@ -5,3 +5,145 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+._4 {
+  background: var(--color-1);
+  flex-shrink: 0;
+  height: 999px;
+  position: relative;
+  overflow: hidden;
+}
+.content-right {
+  padding: 80px 112px 80px 112px;
+  display: flex;
+  flex-direction: column;
+  gap: 88px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 716px;
+  top: 2px;
+}
+.headline-and-button {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.title {
+  color: var(--color-2);
+  text-align: left;
+  font-family: "Avenir-Heavy";
+  font-size: 64px;
+  line-height: 80px;
+  font-weight: 400;
+  position: relative;
+  width: 500px;
+  height: 153px;
+}
+.subtitle {
+  color: var(--color-4);
+  text-align: left;
+  font-family: "Avenir-Roman";
+  font-size: 26px;
+  font-weight: 400;
+  position: relative;
+  width: 500px;
+}
+.primary-button {
+  background: var(--color-2);
+  border-radius: 16px;
+  padding: 18px 48px 18px 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.contact-us {
+  color: var(--color-1);
+  text-align: left;
+  font-family: "Avenir-Roman", sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+  font-weight: 400;
+  position: relative;
+}
+.text-list {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-14161 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._01 {
+  color: var(--color-4);
+  text-align: left;
+  font-family: "Avenir-Heavy";
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 500px;
+}
+.texto_1{
+  color: var(--color-3);
+  text-align: left;
+  font-family: "Avenir-Roman";
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 500px;
+}
+.texto_2{
+  color: var(--color-3);
+  text-align: left;
+  font-family: "Avenir-Roman";
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  width: 500px;
+}
+.frame-14162 {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+._02 {
+  color: var(--color-4);
+  text-align: left;
+  font-family: "Avenir-Heavy";
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 500px;
+}
+.image {
+  width: 716px;
+  height: 932px;
+  position: absolute;
+  left: 0px;
+  top: 67px;
+  overflow: hidden;
+  object-fit: cover;
+}
