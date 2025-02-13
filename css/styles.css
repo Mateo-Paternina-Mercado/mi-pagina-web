@@ -5,3 +5,717 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+._6 {
+    background: #ffffff;
+    flex-shrink: 0;
+    height: 933px;
+    position: relative;
+    overflow: hidden;
+  }
+  .image-group {
+    position: absolute;
+    inset: 0;
+  }
+  .stroke {
+    background: #ffffff;
+    border-radius: 48px;
+    border-style: solid;
+    border-color: #111111;
+    border-width: 2px;
+    width: 480px;
+    height: 568px;
+    position: absolute;
+    left: 809px;
+    top: 93px;
+  }
+  .stroke2 {
+    background: #ffffff;
+    border-radius: 40px;
+    border-style: solid;
+    border-color: #111111;
+    border-width: 2px;
+    width: 310px;
+    height: 476px;
+    position: absolute;
+    left: 1066.31px;
+    top: 364.19px;
+  }
+  .unsplash-qrw-ad-b-cqysc {
+    border-radius: 51.83px;
+    width: 480px;
+    height: 628px;
+    position: absolute;
+    left: 861.76px;
+    top: 152.24px;
+    object-fit: cover;
+  }
+  .star {
+    width: 75px;
+    height: 94.59px;
+    position: absolute;
+    left: 901px;
+    top: 221px;
+    overflow: visible;
+  }
+  .star2 {
+    width: 135.85px;
+    height: 135.85px;
+    position: absolute;
+    left: 741px;
+    top: 62px;
+    overflow: visible;
+  }
+  .star3 {
+    width: 102.74px;
+    height: 129.58px;
+    position: absolute;
+    left: 1221.8px;
+    top: 624.27px;
+    overflow: visible;
+  }
+  .tag {
+    background: #685fd4;
+    border-radius: 16px;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 1px;
+    padding: 16px 24px 16px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 773px;
+    top: 681px;
+    backdrop-filter: blur(2px);
+  }
+  .ergonomic-design {
+    color: #ffffff;
+    text-align: left;
+    font-family: "WorkSans-Regular", sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    position: relative;
+  }
+  .tag2 {
+    background: #685fd4;
+    border-radius: 16px;
+    border-style: solid;
+    border-color: transparent;
+    border-width: 1px;
+    padding: 16px 24px 16px 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 1124px;
+    top: 198px;
+    backdrop-filter: blur(2px);
+  }
+  .award-winning-product {
+    color: #ffffff;
+    text-align: left;
+    font-family: "WorkSans-Regular", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    position: relative;
+  }
+  .content {
+    padding: 0px 0px 0px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 64px;
+    top: 221px;
+  }
+  .the-e-watch-with-the-newest-microchip-technology {
+    color: #050505;
+    text-align: left;
+    font-family: "PlayfairDisplay-Bold", sans-serif;
+    font-size: 64px;
+    line-height: 80px;
+    font-weight: 700;
+    position: relative;
+    width: 629px;
+  }
+  .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-faucibus-in-libero-risus-semper-habitant-arcu-eget-et-integer-facilisi-eget-diam {
+    color: #333333;
+    text-align: left;
+    font-family: "WorkSans-Regular", sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+    position: relative;
+    width: 629px;
+  }
+  .buttons {
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .primary-button {
+    background: #050505;
+    border-radius: 16px;
+    padding: 24px 48px 24px 48px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .contact-us {
+    color: #ffffff;
+    text-align: left;
+    font-family: "WorkSans-Medium", sans-serif;
+    font-size: 24px;
+    line-height: 18px;
+    font-weight: 500;
+    position: relative;
+  }
+  .secondary-button {
+    border-radius: 16px;
+    border-style: solid;
+    border-color: #333333;
+    border-width: 1px;
+    padding: 24px 48px 24px 48px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+  }
+  .contact-us2 {
+    color: #333333;
+    text-align: left;
+    font-family: "WorkSans-Medium", sans-serif;
+    font-size: 24px;
+    line-height: 18px;
+    font-weight: 500;
+    position: relative;
+  }
+  .font-circle {
+    position: absolute;
+    inset: 0;
+  }
+  .text {
+    width: 101.04px;
+    height: 101.16px;
+    position: static;
+  }
+  .l {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 135.24px;
+    top: 87.12px;
+    transform-origin: 0 0;
+    transform: rotate(-149.744deg) scale(1, 1);
+  }
+  .o {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 128.57px;
+    top: 83.3px;
+    transform-origin: 0 0;
+    transform: rotate(-163.368deg) scale(1, 1);
+  }
+  .r {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 121px;
+    top: 81.23px;
+    transform-origin: 0 0;
+    transform: rotate(-174.415deg) scale(1, 1);
+  }
+  .e {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 115.47px;
+    top: 80.68px;
+    transform-origin: 0 0;
+    transform: rotate(174.907deg) scale(1, 1);
+  }
+  .m {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 108.89px;
+    top: 80.97px;
+    transform-origin: 0 0;
+    transform: rotate(160.178deg) scale(1, 1);
+  }
+  .div {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 98.15px;
+    top: 85.34px;
+    transform-origin: 0 0;
+    transform: rotate(147.29deg) scale(1, 1);
+  }
+  .i {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 94.14px;
+    top: 88px;
+    transform-origin: 0 0;
+    transform: rotate(138.821deg) scale(1, 1);
+  }
+  .p {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 90.36px;
+    top: 91.23px;
+    transform-origin: 0 0;
+    transform: rotate(128.142deg) scale(1, 1);
+  }
+  .s {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 85.7px;
+    top: 97.36px;
+    transform-origin: 0 0;
+    transform: rotate(116.359deg) scale(1, 1);
+  }
+  .u {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 82.8px;
+    top: 103.2px;
+    transform-origin: 0 0;
+    transform: rotate(104.576deg) scale(1, 1);
+  }
+  .m2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 80.75px;
+    top: 110.01px;
+    transform-origin: 0 0;
+    transform: rotate(89.479deg) scale(1, 1);
+  }
+  .div2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 81.33px;
+    top: 121.59px;
+    transform-origin: 0 0;
+    transform: rotate(76.591deg) scale(1, 1);
+  }
+  .d {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 82.28px;
+    top: 125.94px;
+    transform-origin: 0 0;
+    transform: rotate(66.28deg) scale(1, 1);
+  }
+  .o2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 85.37px;
+    top: 132.84px;
+    transform-origin: 0 0;
+    transform: rotate(53.761deg) scale(1, 1);
+  }
+  .l2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 90.21px;
+    top: 139.1px;
+    transform-origin: 0 0;
+    transform: rotate(43.082deg) scale(1, 1);
+  }
+  .o3 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 93.8px;
+    top: 142.54px;
+    transform-origin: 0 0;
+    transform: rotate(32.404deg) scale(1, 1);
+  }
+  .r2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 100.52px;
+    top: 146.58px;
+    transform-origin: 0 0;
+    transform: rotate(21.357deg) scale(1, 1);
+  }
+  .div3 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 106.08px;
+    top: 148.61px;
+    transform-origin: 0 0;
+    transform: rotate(12.52deg) scale(1, 1);
+  }
+  .s2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 110.56px;
+    top: 149.62px;
+    transform-origin: 0 0;
+    transform: rotate(2.946deg) scale(1, 1);
+  }
+  .i2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 117.43px;
+    top: 149.81px;
+    transform-origin: 0 0;
+    transform: rotate(-6.996deg) scale(1, 1);
+  }
+  .t {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 122.7px;
+    top: 149.07px;
+    transform-origin: 0 0;
+    transform: rotate(-15.834deg) scale(1, 1);
+  }
+  .div4 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 127.86px;
+    top: 147.49px;
+    transform-origin: 0 0;
+    transform: rotate(-24.303deg) scale(1, 1);
+  }
+  .a {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 132px;
+    top: 145.67px;
+    transform-origin: 0 0;
+    transform: rotate(-34.245deg) scale(1, 1);
+  }
+  .m3 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 137.61px;
+    top: 142.21px;
+    transform-origin: 0 0;
+    transform: rotate(-48.974deg) scale(1, 1);
+  }
+  .e2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 144.76px;
+    top: 133.53px;
+    transform-origin: 0 0;
+    transform: rotate(-63.703deg) scale(1, 1);
+  }
+  .t2 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 147.87px;
+    top: 126.82px;
+    transform-origin: 0 0;
+    transform: rotate(-74.013deg) scale(1, 1);
+  }
+  .div5 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 149.25px;
+    top: 121.6px;
+    transform-origin: 0 0;
+    transform: rotate(-82.482deg) scale(1, 1);
+  }
+  .div6 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 149.79px;
+    top: 116.75px;
+    transform-origin: 0 0;
+    transform: rotate(-90.583deg) scale(1, 1);
+  }
+  .c {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 149.79px;
+    top: 112.23px;
+    transform-origin: 0 0;
+    transform: rotate(-100.525deg) scale(1, 1);
+  }
+  .o4 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 148.48px;
+    top: 105.31px;
+    transform-origin: 0 0;
+    transform: rotate(-112.677deg) scale(1, 1);
+  }
+  .n {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 145.52px;
+    top: 98.35px;
+    transform-origin: 0 0;
+    transform: rotate(-125.196deg) scale(1, 1);
+  }
+  .s3 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 140.98px;
+    top: 92.13px;
+    transform-origin: 0 0;
+    transform: rotate(-136.98deg) scale(1, 1);
+  }
+  .r3 {
+    color: #333333;
+    text-align: left;
+    font-family: "Times-Regular", sans-serif;
+    font-size: 14.222038269042969px;
+    font-weight: 400;
+    position: absolute;
+    left: 98.58px;
+    top: 85.06px;
+    transform-origin: 0 0;
+    transform: rotate(147.166deg) scale(1, 1);
+  }
+  .icons {
+    width: 28.44px;
+    height: 28.44px;
+    position: absolute;
+    left: 102.08px;
+    top: 100.3px;
+    overflow: hidden;
+  }
+  .group {
+    height: auto;
+    position: absolute;
+    left: 2.37px;
+    top: 2.37px;
+    overflow: visible;
+  }
+  .list {
+    border-radius: 24px;
+    border-style: solid;
+    border-color: #111111;
+    border-width: 1px;
+    padding: 24px;
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 64px;
+    top: 751px;
+  }
+  .frame-14228 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .icons2 {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: visible;
+  }
+  .lorem-ipsu-dolor-amet {
+    color: #111111;
+    text-align: left;
+    font-family: "WorkSans-Regular", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: relative;
+    width: 91px;
+  }
+  .frame-14489 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .icons3 {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: visible;
+  }
+  .frame-14490 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .icons4 {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: visible;
+  }
+  .frame-14491 {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .icons5 {
+    flex-shrink: 0;
+    width: 24px;
+    height: 24px;
+    position: relative;
+    overflow: visible;
+  }
+  
