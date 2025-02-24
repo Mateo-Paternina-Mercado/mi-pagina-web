@@ -1,0 +1,87 @@
+@import url(variables.css);
+
+*{margin: 0; padding: 0; 
+
+    /* outline: 1px solid tomato; */
+
+}
+*::before, *::after{box-sizing: border-box;}
+body{min-height: 100dvh;}
+input, button, textarea, select{font: inherit;}
+p{text-wrap: pretty;}
+h1, h2, h3, h4, h5, h6{text-wrap: balance;}
+/* img, video, svg{height: auto; max-width: 100%;} */
+@media (prefers-reduced-motion: reduce){
+*, *::before, *::after{
+animation-duration: 0.01ms !important;
+animation-iteration-count: 1 !important;
+max-width: 100%;
+transition-duration: 0.01ms !important;
+scroll-behavior: auto !important;
+transition: none;
+}
+}
+
+body{
+    width: 1440px;
+    height: 926px;
+    background: linear-gradient(335deg, rgba(156,32,4,1) 0%, rgba(171,39,6,1) 100%);
+}
+
+.img_black{
+    width: 656px;
+    height: 861.5px;
+    position: absolute;
+    top: 64px;
+    left: 64px;
+}
+
+.div_1{
+    width: 487px;
+    height: 674px;
+    position: absolute;
+    top: 134px;
+    left: 889px;
+    h1{
+        width: 487px;
+        height: 416px;
+        font-family: "Worksans-Bold";
+        font-size: 88px;
+        font-weight: 32px;
+        color: var(--color-1);
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    p{
+        width: 487px;
+        height: 96px;
+        font-family: "Worksans-Light";
+        font-size: 24px;
+        font-weight: 18;
+        color: var(--color-1);
+        position: relative;
+        top: 40px;
+        left: 0px;
+    }
+}
+.div_1-2{
+    width: 231px;
+    height: 82px;
+    background: var(--color-3);
+    border-radius: 36px;
+    position: relative;
+    top: 80px;
+        .div_p{
+            width: 119px;
+            height: 18px;
+            font-family: "Worksans-Medium";
+            font-size: 32px;
+            font-weight: 18;
+            text-decoration: none;
+            color: var(--color-2);
+            position: relative;
+            top: 23px;
+            left: 56px;
+        }
+}
